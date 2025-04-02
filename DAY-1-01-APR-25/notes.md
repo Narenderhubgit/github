@@ -1,4 +1,4 @@
-1.free
+free
 =====
 
 The free command in Linux is used to display information about the system's memory usage. It provides details about total memory, used memory, free memory, and memory used by buffers/cache, which can help you monitor how your system's RAM is being utilized.
